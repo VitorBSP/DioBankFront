@@ -1,7 +1,6 @@
 import {
   Heading,
-  Text,
-  Center
+  Text
 } from '@chakra-ui/react'
 
 export const Header = () => {
